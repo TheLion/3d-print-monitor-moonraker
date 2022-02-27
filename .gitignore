@@ -8,3 +8,9 @@ include/Secrets.h
 uploadPassword.ini
 data/settings.json
 data/printer*.json
+devdata/Firmware/D1
+platformio.ini
+include/UserSettings.h
+.gitignore
+include/UserSettings.h
+platformio.ini
